@@ -29,8 +29,6 @@ This project is a collaborative effort aimed at enhancing road safety. We have d
   <li><a href="https://github.com/AdityaBadgotiya">Aditya Badgotiya</a></li>
 </ul>
 
-
-
 ## License
 This project is licensed under the GPL 3.0 License. See the LICENSE file for details.
 
