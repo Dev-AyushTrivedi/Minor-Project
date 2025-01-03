@@ -1,4 +1,3 @@
-# MINOR-PROJECT
 # Accident Detection and Real-Time Driver Drowsiness System
 
 ## Overview
